@@ -1,0 +1,1 @@
+A model to select an optimal subset of features from the target data using swarm intelligence metaheuristic-based approach-Grey Wolf Optimization(GWO). A new variant of GWO was introduced by enhancing the exploration rate of GWO and then the variant was used to introduce the enhanced binary version.
